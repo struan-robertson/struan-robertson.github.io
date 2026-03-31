@@ -1,0 +1,7 @@
+/.agent-shell/
+.DS_Store
+*.aux
+*.log
+*.out
+*.pdf
+*.tex
